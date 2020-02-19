@@ -128,7 +128,7 @@ export default class AboutSection extends Component {
               <h6>Resume</h6>
             </ContactItem>
             <ContactItem>
-              <a href="mailto:apitchaya.yaya@gmail.com?Subject=Hey%20I%20found%20you%20on%20Github!" target="_blank" rel="noopener noreferrer"><IconImg src={ mailImg } /></a>
+              <a href="mailto:apitchaya.yayaa@gmail.com?Subject=Hey%20I%20found%20you%20on%20Github!" target="_blank" rel="noopener noreferrer"><IconImg src={ mailImg } /></a>
               <h6>E-mail</h6>
             </ContactItem>
             <ContactItem>
