@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.b45554d8.chunk.js",
-    "main.js.map": "/static/js/main.b45554d8.chunk.js.map",
+    "main.js": "/static/js/main.c61a59cf.chunk.js",
+    "main.js.map": "/static/js/main.c61a59cf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ec64c261.js",
     "runtime-main.js.map": "/static/js/runtime-main.ec64c261.js.map",
     "static/css/2.ddb6f80b.chunk.css": "/static/css/2.ddb6f80b.chunk.css",
-    "static/js/2.d7d0693a.chunk.js": "/static/js/2.d7d0693a.chunk.js",
-    "static/js/2.d7d0693a.chunk.js.map": "/static/js/2.d7d0693a.chunk.js.map",
+    "static/js/2.47fdffdc.chunk.js": "/static/js/2.47fdffdc.chunk.js",
+    "static/js/2.47fdffdc.chunk.js.map": "/static/js/2.47fdffdc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cc70567554f89d42c93056d3bbfcf9da.js": "/precache-manifest.cc70567554f89d42c93056d3bbfcf9da.js",
+    "precache-manifest.9ea4c211b871d5d13e8a4fccf17b91e7.js": "/precache-manifest.9ea4c211b871d5d13e8a4fccf17b91e7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ddb6f80b.chunk.css.map": "/static/css/2.ddb6f80b.chunk.css.map",
-    "static/js/2.d7d0693a.chunk.js.LICENSE": "/static/js/2.d7d0693a.chunk.js.LICENSE",
+    "static/js/2.47fdffdc.chunk.js.LICENSE": "/static/js/2.47fdffdc.chunk.js.LICENSE",
     "static/media/arrow.svg": "/static/media/arrow.90f1a2fd.svg",
     "static/media/coding.svg": "/static/media/coding.d9a74238.svg",
     "static/media/facebook.svg": "/static/media/facebook.d99368ca.svg",
@@ -23,7 +23,6 @@
     "static/media/profile.jpg": "/static/media/profile.d376b925.jpg",
     "static/media/protectsugar.png": "/static/media/protectsugar.7fe3c43b.png",
     "static/media/rebel.png": "/static/media/rebel.9ce3b0db.png",
-    "static/media/resume.pdf": "/static/media/resume.aad62586.pdf",
     "static/media/spacegame.png": "/static/media/spacegame.735ddf04.png",
     "static/media/tedxKU.jpg": "/static/media/tedxKU.664238b5.jpg",
     "static/media/tools.svg": "/static/media/tools.42853ed3.svg",
@@ -34,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.ec64c261.js",
     "static/css/2.ddb6f80b.chunk.css",
-    "static/js/2.d7d0693a.chunk.js",
-    "static/js/main.b45554d8.chunk.js"
+    "static/js/2.47fdffdc.chunk.js",
+    "static/js/main.c61a59cf.chunk.js"
   ]
 }
