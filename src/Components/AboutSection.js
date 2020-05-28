@@ -6,7 +6,6 @@ import portfolioImg from '../Images/portfolio.svg'
 import facebookImg from '../Images/facebook.svg'
 import instagramImg from '../Images/instagram.svg'
 import mailImg from '../Images/mail.svg'
-import resume from '../resume.pdf'
 
 import { colors } from '../variable'
 
@@ -124,7 +123,7 @@ export default class AboutSection extends Component {
           </ProfileSection>
           <ContactSection>
             <ContactItem>
-              <a href={ resume } target="_blank" rel="noopener noreferrer"><IconImg src={ portfolioImg } /></a>
+              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer"><IconImg src={ portfolioImg } /></a>
               <h6>Resume</h6>
             </ContactItem>
             <ContactItem>
